@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\CinemaTicket\Admin\obj\Debug\Admin.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\CinemaTicket\Admin\bin\Debug\Admin.exe.config
+C:\Users\ACER\source\repos\CinemaTicket\Admin\bin\Debug\Admin.exe
+C:\Users\ACER\source\repos\CinemaTicket\Admin\bin\Debug\Admin.pdb
+C:\Users\ACER\source\repos\CinemaTicket\Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\CinemaTicket\Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\source\repos\CinemaTicket\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\ACER\source\repos\CinemaTicket\Admin\obj\Debug\Admin.exe
+C:\Users\ACER\source\repos\CinemaTicket\Admin\obj\Debug\Admin.pdb
