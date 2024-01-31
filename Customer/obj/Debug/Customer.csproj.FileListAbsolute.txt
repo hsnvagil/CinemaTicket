@@ -1,9 +1,0 @@
-C:\Users\ACER\source\repos\CinemaTicket\Customer\bin\Debug\Customer.exe.config
-C:\Users\ACER\source\repos\CinemaTicket\Customer\bin\Debug\Customer.exe
-C:\Users\ACER\source\repos\CinemaTicket\Customer\bin\Debug\Customer.pdb
-C:\Users\ACER\source\repos\CinemaTicket\Customer\bin\Debug\Newtonsoft.Json.dll
-C:\Users\ACER\source\repos\CinemaTicket\Customer\bin\Debug\Newtonsoft.Json.xml
-C:\Users\ACER\source\repos\CinemaTicket\Customer\obj\Debug\Customer.csproj.CopyComplete
-C:\Users\ACER\source\repos\CinemaTicket\Customer\obj\Debug\Customer.exe
-C:\Users\ACER\source\repos\CinemaTicket\Customer\obj\Debug\Customer.pdb
-C:\Users\ACER\source\repos\CinemaTicket\Customer\obj\Debug\Customer.csprojAssemblyReference.cache
